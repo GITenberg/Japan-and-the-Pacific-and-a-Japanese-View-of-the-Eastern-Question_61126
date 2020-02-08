@@ -1,0 +1,28 @@
+_repo: Japan-and-the-Pacific-and-a-Japanese-View-of-the-Eastern-Question_61126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Inagaki, Manjiro
+    alias: 稲垣満次郎
+    birthdate: 1861
+    deathdate: 1908
+    gutenberg_agent_id: '51269'
+    url: http://www.gutenberg.org/2009/agents/51269
+    wikipedia: https://en.wikipedia.org/wiki/Inagaki_Manjir%C5%8D
+description: ''
+gutenberg_issued: '2020-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- History -- 1871-1918'
+- !lcsh 'Eastern question (Balkan)'
+- !lcc 'D'
+- !lcsh 'Japan -- Politics and government'
+- GITenberg
+title: Japan and the Pacific, and a Japanese View of the Eastern Question
+url: http://www.gutenberg.org/ebooks/61126
