@@ -1,5 +1,8 @@
 _repo: Japan-and-the-Pacific-and-a-Japanese-View-of-the-Eastern-Question_61126
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61126-h/images/cover.jpg
 creator:
   author:
     agent_name: Inagaki, Manjiro
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51269
     wikipedia: https://en.wikipedia.org/wiki/Inagaki_Manjir%C5%8D
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61126#Japan-and-the-Pacific-and-a-Japanese-View-of-the-Eastern-Question
 gutenberg_issued: '2020-01-07'
 gutenberg_type: Text
 identifiers:
